@@ -26,4 +26,6 @@ This is the process followed:
 6.	User is provided a menu on UART terminal where there are two options mainly, first to recalibrate the system and the other to enter some specified position or angle
 EXTRA FUNCTIONALITY
 Third functionality added  in the UART menu to set pitch angle entered by the user. This functionality works if the board is kept on a flat surface with ground level/ zero level reference.
-*More details provided in the report.*
+```
+More details provided in the report.
+```
